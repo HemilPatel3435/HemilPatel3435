@@ -40,49 +40,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.iconscout.com/icon/free/png-256/react-1543566-1306069.png?f=avif&w=128"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/apache-3521274-2944778.png?f=avif&w=128"
-      alt="apache"
-      width="60"
-      height="50"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png?f=avif&w=128"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png?f=avif&w=128"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png?f=avif&w=128"
-      alt="bootstrap"
+      src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxGzYpqhHbSUoBv1r0aUvPkVs7LBax1irbxdVmkF_dHm20fwVg"
+      alt="html5"
       width="40"
       height="40"
     />
@@ -95,54 +56,33 @@
       height="40"
     />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
+      src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png?f=avif&w=128"
+      alt="javascript"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-    src="https://cdn.iconscout.com/icon/free/png-256/express-9-1175170.png?f=avif&w=128"
-      alt="express"
-      width="60"
-      height="50"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
+    src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png?f=avif&w=128"
+      alt="bootstrap"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxGzYpqhHbSUoBv1r0aUvPkVs7LBax1irbxdVmkF_dHm20fwVg"
-      alt="html5"
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/laravel-2038872-1720085.png?f=avif&w=128"
-      alt="laravel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png?f=avif&w=128"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg"
@@ -151,19 +91,65 @@
       height="60"
     />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"
-      alt="mysql"
-      width="70"
+    src="https://cdn.iconscout.com/icon/free/png-256/express-9-1175170.png?f=avif&w=128"
+      alt="express"
+      width="60"
+      height="50"
+    />
+  </a>
+
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://angular.io/assets/images/logos/angular/angular.svg"
+      alt="angular"
+      width="40"
       height="40"
     />
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.iconscout.com/icon/free/png-256/react-1543566-1306069.png?f=avif&w=128"
+      alt="reactjs"
+      width="40"
+      height="40"
+    />
+  </a>
+
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"
       alt="nodejs"
       width="60"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img
+    src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png?f=avif&w=128"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
+    <img
+    src="https://cdn.iconscout.com/icon/free/png-256/apache-3521274-2944778.png?f=avif&w=128"
+      alt="apache"
+      width="60"
+      height="50"
+    />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"
+      alt="mysql"
+      width="70"
       height="40"
     />
   </a>
@@ -175,6 +161,16 @@
       height="40"
     />
   </a>
+
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img
+    src="https://cdn.iconscout.com/icon/free/png-256/laravel-2038872-1720085.png?f=avif&w=128"
+      alt="laravel"
+      width="40"
+      height="40"
+    />
+  </a>
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
     src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png?f=avif&w=128"
@@ -183,10 +179,27 @@
       height="50"
     />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
+      src="https://cdn.worldvectorlogo.com/logos/django.svg"
+      alt="django"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img
+    src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png?f=avif&w=128"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
       width="40"
       height="40"
     />
