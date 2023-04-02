@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemil Patel</h1>
-<h3 align="center">On my journey to explore Web Development</h3>
+<h3 align="center">On my journey to learning the fundamentals of web development and beyond</h3>
 
 <img
   align="right"
