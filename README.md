@@ -50,7 +50,7 @@
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img
-      src="/img/reactjs.png"
+      src="[/img/reactjs.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Kvv97QxGD5SizXgiSNRRFNDc6TTTy46eUg&usqp=CAU)"
       alt="reactjs"
       width="40"
       height="40"
