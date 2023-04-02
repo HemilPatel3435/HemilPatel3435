@@ -50,23 +50,22 @@
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img
-      src="[/img/reactjs.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Kvv97QxGD5SizXgiSNRRFNDc6TTTy46eUg&usqp=CAU)"
-      alt="reactjs"
+      src="https://cdn.iconscout.com/icon/free/png-256/react-1543566-1306069.png?f=avif&w=128"
       width="40"
       height="40"
     />
   </a>
   <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
     <img
-    src="https://www.brcline.com/wp-content/uploads/2020/06/apache-logo.png"
+    src="https://cdn.iconscout.com/icon/free/png-256/apache-3521274-2944778.png?f=avif&w=128"
       alt="apache"
-      width="70"
-      height="60"
+      width="60"
+      height="50"
     />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
-      src="/img/js.png"
+      src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png?f=avif&w=128"
       alt="javascript"
       width="40"
       height="40"
@@ -74,7 +73,7 @@
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
-    src="/img/aws.png"
+    src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png?f=avif&w=128"
       alt="aws"
       width="40"
       height="40"
@@ -82,7 +81,7 @@
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-    src="/img/bs.jpeg"
+    src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png?f=avif&w=128"
       alt="bootstrap"
       width="40"
       height="40"
@@ -90,9 +89,9 @@
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="/img/css.png"
+      src="https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png?f=avif&w=128"
       alt="css3"
-      width="30"
+      width="40"
       height="40"
     />
   </a>
@@ -106,10 +105,10 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-    src="/img/express.png"
+    src="https://cdn.iconscout.com/icon/free/png-256/express-9-1175170.png?f=avif&w=128"
       alt="express"
-      width="80"
-      height="40"
+      width="60"
+      height="50"
     />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -130,7 +129,7 @@
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
-    src="/img/laravel.png"
+    src="https://cdn.iconscout.com/icon/free/png-256/laravel-2038872-1720085.png?f=avif&w=128"
       alt="laravel"
       width="40"
       height="40"
@@ -138,7 +137,7 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
-    src="/img/linux.png"
+    src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png?f=avif&w=128"
       alt="linux"
       width="40"
       height="40"
@@ -178,7 +177,7 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
-    src="/img/py.jpeg"
+    src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png?f=avif&w=128"
       alt="python"
       width="50"
       height="50"
