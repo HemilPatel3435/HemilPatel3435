@@ -17,7 +17,7 @@
   /></a>
 </p>
 
-🌱 I’m currently learning **MEAN Stack** <br>🎯 2023: Learn more about Web Development <br> 📧 How to reach me
+🌱 Building My Skills in **Front-end** and **Back-end** Technologies <br>🎯 2023: Learn more about Web Development <br> 📧 How to reach me
 **patelhemil585@gmail.com**  
 
 
