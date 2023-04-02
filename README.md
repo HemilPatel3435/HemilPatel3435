@@ -8,12 +8,6 @@
   src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
 />
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=hemilpatel3435&label=Profile%20views&color=0e75b6&style=flat"
-    alt="hemilpatel3435"
-  />
-</p>
 
 <p align="left">
   <a href="https://twitter.com/marcos_3435" target="blank"
@@ -23,10 +17,9 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **MEAN Stack** - 📫 How to reach me
+🌱 I’m currently learning **MEAN Stack** <br> 📫 How to reach me
 **patelhemil585@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/marcos_3435" target="blank"
     ><img
