@@ -8,14 +8,14 @@
   src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
 />
 
-
+<!-- 
 <p align="left">
   <a href="https://twitter.com/marcos_3435" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/marcos_3435?logo=twitter&style=for-the-badge"
       alt="marcos_3435"
   /></a>
-</p>
+</p> -->
 
 🌱 Building My Skills in **Front-end** and **Back-end** Technologies <br>🎯 2023: Learn more about Web Development <br> 📧 How to reach me
 **patelhemil585@gmail.com**  
