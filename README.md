@@ -198,18 +198,3 @@
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=hemilpatel3435&show_icons=true&locale=en"
-    alt="hemilpatel3435"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hemilpatel3435&"
-    alt="hemilpatel3435"
-  />
-</p>
